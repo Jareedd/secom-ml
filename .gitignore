@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+data/
+
+# Private interview notes, not part of the portfolio
+interview_prep.md
+
+# Resume working files, not part of the portfolio
+resume/
